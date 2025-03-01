@@ -20,7 +20,27 @@
 - 🔄 자서전 + 커뮤니티 + 챌린지 융합: 새로운 삶을 설계하는 종합 플랫폼
 - 📖 기록 & 공유: 인생을 돌아보고, 다음 세대와 지혜를 나눌 기회 제공
 
+### 💫 중장년층 누구나 쉽게 시작할 수 있는 가이드와 UI 제공
+
+- 커스텀 가능한 자서전 뷰어 제공
+- 튜토리얼(온보딩) 제공
+- 각 단계에서 도움말 제공
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/39145ae2-e334-4f11-a8d8-583097b3f202" width="30%">
+<p>유저에 맞는 글자 크기, 글자체 커스텀</p>
+</div>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/2f9300fb-b511-4a8b-b9f4-1cc29ae54fe1" width="40%">
+<img src="https://github.com/help-guide_1.png" width="30%">
+<img src="https://github.com/help-guide_2.png" width="30%">
+<p>튜토리얼 및 도움말 제공</p>
+</div>
+
 <br/>
+
+
 
 ## 📌 주요 기능
 ### 1️⃣ 어제 (Autobiography: "봄날의 서")
@@ -53,23 +73,6 @@
 
 <img src="https://github.com/user-attachments/assets/cd49c05c-48b4-4e23-aae0-3a61dbb31c42" width="30%">
 
-## 중장년층 누구나 쉽게 시작할 수 있는 가이드와 UI 제공
-
-- 커스텀 가능한 자서전 뷰어 제공
-- 튜토리얼(온보딩) 제공
-- 각 단계에서 도움말 제공
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/39145ae2-e334-4f11-a8d8-583097b3f202" width="30%">
-<p>유저에 맞는 글자 크기, 글자체 커스텀</p>
-</div>
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/2f9300fb-b511-4a8b-b9f4-1cc29ae54fe1" width="40%">
-<img src="https://github.com/help-guide_1.png" width="30%">
-<img src="https://github.com/help-guide_2.png" width="30%">
-<p>튜토리얼 및 도움말 제공</p>
-</div>
 
 <br/>
 
