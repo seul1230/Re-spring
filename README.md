@@ -28,26 +28,37 @@
 - 튜토리얼(온보딩) 제공
 - 각 단계에서 도움말 제공
 
-<div style="display:flex; justify-content:center; gap:10px;">
-    <div align="center">
-        <img src="./assets/viewer.gif" width="60%">
-        <p>🔼 유저에 맞는 글자 크기, 글자체 커스텀</p>
-    </div>
-    <div align="center">
-        <img src="./assets/onboarding.gif" width="60%">
-        <p>🔼 튜토리얼/온보딩</p>
-    </div>
-</div>
+<table align="center">
+    <tr>
+        <td align="center" width="30%">
+            <img src="./assets/viewer.gif" width="50%">
+            <p>🔼 유저에 맞는 글자 크기, 글자체 커스텀</p>
+        </td>
+        <td align="center" width="30%">
+            <img src="./assets/onboarding.gif" width="50%">
+            <p>🔼 튜토리얼/온보딩</p>
+        </td>
+    </tr>
+</table>
 
 <br/>
 
-<div style="display: flex; align-items: center; flex-direction: column;" align="center">
-    <div style="display: flex; align-items: center; justify-content:center; gap: 30px;">
-        <img src="./assets/help_guide_1.png" width="30%">
-        <img src="./assets/help_guide_2.png" width="30%">
-    </div>
-    <p style="margin-top: 5px;">🔼 각 페이지에 대한 도움말 제공</p>
-</div>
+
+<table align="center">
+<tr>
+    <td align="end" width="30%">
+        <img src="./assets/help_guide_1.png" width="50%">
+    </td>
+    <td align="start" width="30%">
+        <img src="./assets/help_guide_2.png" width="50%">
+    </td>
+</tr>
+<tr>
+    <td colspan="2" align="center">
+        <p>🔼 각 페이지에 대한 도움말 제공</p>
+    </td>
+</tr>
+</table>
 
 <br/>
 
@@ -58,41 +69,52 @@
 
 > 나의 인생을 기록하고, 공유하는 AI 기반 자서전 서비스
 
-<div style="display:flex; gap:10px;">
-    <div align="center">
-        <img src="./assets/yesterday.gif" width="60%">
-    </div>
-    <ul>
-        <li>자신이 작성한 짧은 글 조각들을 엮어 하나의 자서전으로 자연스럽게 엮어주는 자서전 'AI 엮기'</li>
-        <li>저자와의 1:1 채팅 기능 지원</li>
-    </ul>
-</div>
+<table>
+    <tr>
+    <td width="40%" align="center">
+        <img src="./assets/yesterday.gif" width="100%">
+    </td>
+    <td valign="top">
+        <ul>
+            <li>자신이 작성한 짧은 글 조각들을 엮어 하나의 자서전으로 자연스럽게 엮어주는 자서전 'AI 엮기'</li>
+            <li>저자와의 1:1 채팅 기능 지원</li>
+        </ul>
+    </td>
+    </tr>
+</table>
 
-<div style="display:flex; gap:10px;">
-    <ul>
-        <li>Elasticsearch + Redis 기반 검색/자동완성 지원</li>
-    </ul>
-    <img src="./assets/search_book.gif" width="40%">
-</div>
+<table>
+    <tr>
+    <td valign="top">
+        <ul>
+            <li>Elasticsearch + Redis 기반 검색/자동완성 지원</li>
+        </ul>
+    </td>
+    <td width="40%" align="start" valign="top">
+        <img src="./assets/search_book.gif" width="100%">
+    </td>
+    </tr>
+</table>
+
 
 
 
 ### 2️⃣ 오늘 (Community: "소통 공간")
 > 퇴직자들이 서로 경험을 공유하고, 조언을 주고받는 커뮤니티
 
-<div style="display:flex; gap:10px;">
-    <div align="center">
-        <img src="./assets/today.gif" width="60%">
-    </div>
-    <ul>
-        <li>
-        비슷한 고민을 가진 사용자, 이미 비슷한 고민을 해봤던 사용자와 교류 가능
-        </li>
-        <li>
-        일자리, 재테크, 건강 등 다양한 주제로 소통
-        </li>
-    </ul>
-</div>
+<table>
+    <tr>
+    <td width="40%" align="center">
+        <img src="./assets/today.gif" width="100%">
+    </td>
+    <td valign="top">
+        <ul>
+            <li>비슷한 고민을 가진 사용자, 이미 비슷한 고민을 해봤던 사용자와 교류 가능</li>
+            <li>일자리, 재테크, 건강 등 다양한 주제로 소통</li>
+        </ul>
+    </td>
+    </tr>
+</table>
 
 
 
@@ -100,19 +122,21 @@
 ### 3️⃣ 내일 (Challenge: "미래 도전")
 > 작은 목표를 세우고, 함께 도전하는 챌린지 기능
 
-<div style="display:flex; gap:10px;">
-    <div align="center">
-        <img src="./assets/tomorrow.gif" width="60%">
-    </div>
-    <ul>
-        <li>
-        퇴직 후에도 적극적인 삶을 살 수 있도록 목표 설정 & 도전 기능 제공
-        </li>
-        <li>
-        같은 목표를 가진 사용자끼리 오픈 채팅방에서 소통하며 긍정적인 자극
-        </li>
-    </ul>
-</div>
+
+<table>
+    <tr>
+    <td width="40%" align="center">
+        <img src="./assets/tomorrow.gif" width="100%">
+    </td>
+    <td valign="top">
+        <ul>
+            <li>퇴직 후에도 적극적인 삶을 살 수 있도록 목표 설정 & 도전 기능 제공</li>
+            <li>같은 목표를 가진 사용자끼리 오픈 채팅방에서 소통하며 긍정적인 자극</li>
+        </ul>
+    </td>
+    </tr>
+</table>
+
 
 
 <br/>
