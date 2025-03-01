@@ -1,7 +1,7 @@
 ## 🌱 다시, 봄(Re: Spring)
 > 퇴직자의 제2인생 지원을 위한 커뮤니티 플랫폼 – 소통(SNS), 기록(AI 자서전), 도전(챌린지)
 
-![오프닝](https://github.com/user-attachments/assets/3737d91b-2f0b-418d-995f-3b1fb58f44ac)
+![오프닝](./assets/opening.gif)
 
 <br/>
 
@@ -20,22 +20,33 @@
 - 🔄 자서전 + 커뮤니티 + 챌린지 융합: 새로운 삶을 설계하는 종합 플랫폼
 - 📖 기록 & 공유: 인생을 돌아보고, 다음 세대와 지혜를 나눌 기회 제공
 
-### 💫 중장년층 누구나 쉽게 시작할 수 있는 가이드와 UI 제공
+<br/>
+
+> 💫 중장년층 누구나 쉽게 시작할 수 있는 가이드와 UI 제공
 
 - 커스텀 가능한 자서전 뷰어 제공
 - 튜토리얼(온보딩) 제공
 - 각 단계에서 도움말 제공
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/39145ae2-e334-4f11-a8d8-583097b3f202" width="30%">
-<p>유저에 맞는 글자 크기, 글자체 커스텀</p>
+<div style="display:flex; justify-content:center; gap:10px;">
+    <div align="center">
+        <img src="./assets/viewer.gif" width="60%">
+        <p>🔼 유저에 맞는 글자 크기, 글자체 커스텀</p>
+    </div>
+    <div align="center">
+        <img src="./assets/onboarding.gif" width="60%">
+        <p>🔼 튜토리얼/온보딩</p>
+    </div>
 </div>
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/2f9300fb-b511-4a8b-b9f4-1cc29ae54fe1" width="40%">
-<img src="https://github.com/help-guide_1.png" width="30%">
-<img src="https://github.com/help-guide_2.png" width="30%">
-<p>튜토리얼 및 도움말 제공</p>
+<br/>
+
+<div style="display: flex; align-items: center; flex-direction: column;" align="center">
+    <div style="display: flex; align-items: center; justify-content:center; gap: 30px;">
+        <img src="./assets/help_guide_1.png" width="30%">
+        <img src="./assets/help_guide_2.png" width="30%">
+    </div>
+    <p style="margin-top: 5px;">🔼 각 페이지에 대한 도움말 제공</p>
 </div>
 
 <br/>
@@ -47,31 +58,61 @@
 
 > 나의 인생을 기록하고, 공유하는 AI 기반 자서전 서비스
 
-- 자신이 작성한 짧은 글 조각들을 엮어 하나의 자서전으로 자연스럽게 엮어주는 자서전 'AI 엮기'
-- 저자와의 1:1 채팅 기능 지원
-- Elasticsearch + Redis 기반 검색/자동완성 지원
+<div style="display:flex; gap:10px;">
+    <div align="center">
+        <img src="./assets/yesterday.gif" width="60%">
+    </div>
+    <ul>
+        <li>자신이 작성한 짧은 글 조각들을 엮어 하나의 자서전으로 자연스럽게 엮어주는 자서전 'AI 엮기'</li>
+        <li>저자와의 1:1 채팅 기능 지원</li>
+    </ul>
+</div>
 
-<img src="https://github.com/user-attachments/assets/88aa4fcc-cbc8-4887-b846-f390dcac0fb8" width="30%">
+<div style="display:flex; gap:10px;">
+    <ul>
+        <li>Elasticsearch + Redis 기반 검색/자동완성 지원</li>
+    </ul>
+    <img src="./assets/search_book.gif" width="40%">
+</div>
 
-<img src="https://github.com/user-attachments/assets/2c0735ff-d6f1-40e0-94eb-54fa3b5a1f3c" width="40%">
 
 
 ### 2️⃣ 오늘 (Community: "소통 공간")
 > 퇴직자들이 서로 경험을 공유하고, 조언을 주고받는 커뮤니티
 
-- 비슷한 고민을 가진 사용자, 이미 비슷한 고민을 해봤던 사용자와 교류 가능
-- 일자리, 재테크, 건강 등 다양한 주제로 소통
+<div style="display:flex; gap:10px;">
+    <div align="center">
+        <img src="./assets/today.gif" width="60%">
+    </div>
+    <ul>
+        <li>
+        비슷한 고민을 가진 사용자, 이미 비슷한 고민을 해봤던 사용자와 교류 가능
+        </li>
+        <li>
+        일자리, 재테크, 건강 등 다양한 주제로 소통
+        </li>
+    </ul>
+</div>
 
-<img src="https://github.com/user-attachments/assets/ea9b46e9-8425-4284-9cfb-fde66c20b35e" width="30%">
+
 
 
 ### 3️⃣ 내일 (Challenge: "미래 도전")
 > 작은 목표를 세우고, 함께 도전하는 챌린지 기능
 
-- 퇴직 후에도 적극적인 삶을 살 수 있도록 목표 설정 & 도전 기능 제공
-- 같은 목표를 가진 사용자끼리 오픈 채팅방에서 소통하며 긍정적인 자극
-
-<img src="https://github.com/user-attachments/assets/cd49c05c-48b4-4e23-aae0-3a61dbb31c42" width="30%">
+<div style="display:flex; gap:10px;">
+    <div align="center">
+        <img src="./assets/tomorrow.gif" width="60%">
+    </div>
+    <ul>
+        <li>
+        퇴직 후에도 적극적인 삶을 살 수 있도록 목표 설정 & 도전 기능 제공
+        </li>
+        <li>
+        같은 목표를 가진 사용자끼리 오픈 채팅방에서 소통하며 긍정적인 자극
+        </li>
+    </ul>
+</div>
 
 
 <br/>
@@ -120,8 +161,8 @@
 [📒 팀 노션](https://www.notion.so/Re-Spring-1704ec08d1a9804d951bda76eefbeb8a)
 
 
-|                            조예슬                            |                            김민철                            |                            강승엽                            |                           박성욱                           |                            윤태한                             |                            안혜성                            |
-|:---------------------------------------------------------:|:---------------------------------------------------------:|:---------------------------------------------------------:|:-------------------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------------:|
+|                         조예슬                          |                          김민철                           |                          강승엽                           |                          박성욱                           |                          윤태한                           |                           안혜성                           |
+| :-----------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------: | :--------------------------------------------------------: |
 | <img src="https://github.com/seul1230.png" width="100"> | <img src="https://github.com/MovieGoers.png" width="100"> | <img src="https://github.com/SeungYeopp.png" width="100"> | <img src="https://github.com/respectwo2.png" width="100"> | <img src="https://github.com/taehanyoon.png" width="100"> | <img src="https://github.com/Hyeseong128.png" width="100"> |
-|                      **BE**                       |                          **FE**                           |                          **BE**                           |                         **BE**                          |                           **FE**                           |                           **FE**                           |
-|       [@seul1230](https://github.com/seul1230)        |       [@MovieGoers](https://github.com/MovieGoers)        |       [@SeungYeopp](https://github.com/SeungYeopp)        |        [@respectwo2](https://github.com/respectwo2)         |        [@taehanyoon](https://github.com/taehanyoon)        |       [@Hyeseong128](https://github.com/Hyeseong128)       |
+|                         **BE**                          |                          **FE**                           |                          **BE**                           |                          **BE**                           |                          **FE**                           |                           **FE**                           |
+|        [@seul1230](https://github.com/seul1230)         |       [@MovieGoers](https://github.com/MovieGoers)        |       [@SeungYeopp](https://github.com/SeungYeopp)        |       [@respectwo2](https://github.com/respectwo2)        |       [@taehanyoon](https://github.com/taehanyoon)        |       [@Hyeseong128](https://github.com/Hyeseong128)       |
